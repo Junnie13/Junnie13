@@ -33,14 +33,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-<table>
-  <tr>
-    <td valign="top" width="33%"><img src="https://github-readme-stats.vercel.app/api?username=Junnie13&theme=radical&hide_border=false&include_all_commits=true&count_private=true" align="left" style="width: 100%" /></td>
-    <td valign="top" width="33%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Junnie13&theme=radical&hide_border=false" align="left" style="width: 100%" /></td>
-    <td valign="top" width="33%"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Junnie13&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" style="width: 100%" /></td>
-  </tr>
-</table>   
+
+![](https://github-readme-stats.vercel.app/api?username=Junnie13&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=Junnie13&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junnie13&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </div>
 
@@ -53,7 +47,7 @@
 
 ## ✨Inspiration
 <div align="center">
-<img src="https://i.pinimg.com/originals/39/79/a6/3979a63b82c9927aa015eb13fb1ff22a.png" align="center" style="width: 50%" />
+<img src="https://i.pinimg.com/originals/39/79/a6/3979a63b82c9927aa015eb13fb1ff22a.png" align="center" style="width: 65%" />
 </div>
 
 <br/>
